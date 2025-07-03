@@ -1,5 +1,6 @@
 ﻿
 using shared;
+using System;
 namespace Assignment04_c
 {
     internal class Program
@@ -16,6 +17,22 @@ namespace Assignment04_c
             #endregion
 
 
+            #region p2:Define a struct "Person" with properties "Name" and "Age". Create an array of three "Person" objects and populate it with data. Then, write a C# program to display the details of all the persons in the array.
+
+            //person[] people = new person[3];
+
+
+            //people[0] = new person("muhammed", 23);
+            //people[1] = new person("mostafa", 20);
+            //people[2] = new person("sayed", 22);
+
+   
+            //Console.WriteLine("List of Persons:");
+            //foreach (person p in people)
+            //{
+            //    p.display();
+            //}
+            #endregion
         }
     }
 }
